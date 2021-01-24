@@ -1,9 +1,8 @@
 ### Hi there i'm joão👋
 
-<!--
-**JoaoRobertoFernandes/JoaoRobertoFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ​:book:​ I'm learning how to code!
--->
+
+:video_game:​ I like to make games, so i would say this is my main area.
+
+​:book:​ I like working with numbers too, i'm studying accounting.
+
